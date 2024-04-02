@@ -7,13 +7,13 @@
 
 - 🌱 **Mern-Stack Developer**
 - 👩‍💻 Currently exploring microservices and system design using **Python** & **Kubernetes** 
-- 📫 Mail me at: **rajnish31july@gmail.com**
+- 📫 Mail me at: **purohit.naina12@gmail.com**
 
 - ⚡ Fun fact **Not a geek, still a geek!**
 
 **Connect With Me:** 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rks_031/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajnish-kumar-singh-2241b321b/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rks_031) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nainapurohit12/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajnish-kumar-singh-2241b321b/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rks_031) 
 
 
 **Tech Stack:**
